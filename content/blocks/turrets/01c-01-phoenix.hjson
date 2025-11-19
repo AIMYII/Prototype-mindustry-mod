@@ -80,6 +80,17 @@ drawer: {
     }
     {
       type: RegionPart
+      suffix: -flame
+      progress: recoil
+      moveX: 10
+      moveY: -20
+      moveRot: 25
+      under: true
+      mirror: true
+      heatColor: 8DF9D7
+    }
+    {
+      type: RegionPart
       suffix: -cannon
       progress: recoil
       moveX: 2
