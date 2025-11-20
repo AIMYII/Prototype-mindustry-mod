@@ -3,6 +3,6 @@
     "author": "Amiiyah",
     "description": "",
     "version": "1.0.0",
-    "minGameVersion": 146,
-    "main": "src.prototypemod"
+    "minGameVersion": 150,
+    "main": "prototypemod"
 }

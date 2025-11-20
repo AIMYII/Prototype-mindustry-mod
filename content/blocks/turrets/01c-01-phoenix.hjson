@@ -1,5 +1,5 @@
 type: ItemTurret
-size: 3
+size: 2
 squareSprite: false
 health: 1650
 shootSound: shootAltLong
