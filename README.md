@@ -2,7 +2,7 @@
 
 WIP
 
-After landing on a scorching planet, you have to fight off the Phoenix clan. A group of air aliens. And their greatest enemy, the Botflies!
+After landing on a scorching planet, you have to fight off the Phoenix faction. A group of air aliens. And their greatest enemy, the Botflies!
 
 **An enemy of my enemy is a friend.**
 
